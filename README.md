@@ -1,7 +1,7 @@
 ## Subtle Pong
->*Easy to Learn, a Lifetime to Master!*
+>*The Thinker's Pong*
 
-Subtle Pong (or Subtle Table Tennis) is a variant of standard table tennis with a small change to the method of hitting a shot: every shot must hit your own court before crossing the net, like the serve in regular Table Tennis.
+Easy to learn, a lifetime to master; Subtle Pong (or Subtle Table Tennis) is a variant of standard table tennis with a small change to the method of hitting a shot: every shot must hit your own court before crossing the net, like the serve in regular Table Tennis.
 
 ### Subtle Pong Rules
 Subtle Pong is played according to the normal rules of Table Tennis, with modifications listed below. The traditions of Subtle Pong began when an errant shot hit the duct-work in the ceiling and landed legally in play -- the players decided to play on and count the point for the winner.
